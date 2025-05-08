@@ -1,0 +1,41 @@
+body {
+    color: #009933;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 1.4;
+}
+
+.kursiv {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#third {
+    font-family: Comic Sans;
+    font-size: 25px;
+    text-indent: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: tomato;
+    line-height: 25px;
+    text-align: right;
+}
+
+#fourth{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    letter-spacing: 200%;
+    text-decoration: underline;
+    text-shadow: gray 0 0 5px;
+}
+#fifth{
+    padding: 10px;
+    margin-top: 50px;
+    color:antiquewhite;
+    background: #111;
+    border-radius: 5px;
+}
+
